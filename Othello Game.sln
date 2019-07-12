@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloUI", "Ex05.OthelloUI\OthelloUI.csproj", "{8F7D5AEF-5133-4A37-BF66-204FBE7C636E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloLogic", "Ex05.OthelloLogic\OthelloLogic.csproj", "{61F76177-E2FC-46C1-B9C1-82D2E01BE410}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DDEB0C9-B5A9-490B-ACFB-4E6E19996917}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\HuyERROR\Desktop\Othello board mid game.jpg = C:\Users\HuyERROR\Desktop\Othello board mid game.jpg
+		C:\Users\HuyERROR\Desktop\Othello board start.jpg = C:\Users\HuyERROR\Desktop\Othello board start.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7D5AEF-5133-4A37-BF66-204FBE7C636E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7D5AEF-5133-4A37-BF66-204FBE7C636E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7D5AEF-5133-4A37-BF66-204FBE7C636E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7D5AEF-5133-4A37-BF66-204FBE7C636E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F76177-E2FC-46C1-B9C1-82D2E01BE410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F76177-E2FC-46C1-B9C1-82D2E01BE410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F76177-E2FC-46C1-B9C1-82D2E01BE410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F76177-E2FC-46C1-B9C1-82D2E01BE410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADB479C-8CDC-4BF9-8F3D-56B40DEF2124}
+	EndGlobalSection
+EndGlobal

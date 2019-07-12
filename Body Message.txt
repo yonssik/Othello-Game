@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 321730327 - Alexander Pekker
+Second Student Details: 328647680 - Yanis Onjulis
+Delivery Date.........: 14 - June - 2019
+Delivered In Delay....: No
+Delay Reason..........: -
+Visual Studio Version.: 2017
+Comment...............: Added Bonus in Othello Logic that Handle Events
+========================End Exercise Checking Report========================
