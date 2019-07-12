@@ -9,6 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OthelloLogic", "Ex05.Othell
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DDEB0C9-B5A9-490B-ACFB-4E6E19996917}"
 	ProjectSection(SolutionItems) = preProject
+		Body Message.txt = Body Message.txt
 		C:\Users\HuyERROR\Desktop\Othello board mid game.jpg = C:\Users\HuyERROR\Desktop\Othello board mid game.jpg
 		C:\Users\HuyERROR\Desktop\Othello board start.jpg = C:\Users\HuyERROR\Desktop\Othello board start.jpg
 	EndProjectSection
